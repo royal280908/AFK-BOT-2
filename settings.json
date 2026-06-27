@@ -27,13 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 240,
       "messages": [
-        "Aku adalah raja iblis!",
-        "Hormat kepada sang Admin!",
-        "I like to play Minecraft!"
+        "Admin terbaik adalah fwz!",
+        "Hormat kepada sang Admin!"
       ]
     },
     "chat-log": true,
