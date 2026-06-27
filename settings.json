@@ -27,13 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "fwz adalah admin terbaik",
+        "jika ada masalah pada server, hubungi admin fwz!"
       ]
     },
     "chat-log": true,
