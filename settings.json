@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 240,
+      "repeat-delay": 3600,
       "messages": [
         "Admin terbaik adalah fwz!",
         "Jika ada masalah pada server, hubungi admin fwz!"
